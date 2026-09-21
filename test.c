@@ -16,4 +16,6 @@ int main(int argc, char* argv[]) { //argc takes number of arguments, argv holds 
 
     int functionVal = functionOne();
     printf("%f", functionVal);
+
+    printf("changing stuff");
 }
